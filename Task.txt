@@ -1,0 +1,3 @@
+Create a new Azure Function that should process notifications from Azure Queue and files from Azure Blob, and stores files in Production.Document database table.
+
+A notification in Azure Queue has reference (file name) to a file in Azure Blob and all necessary metadata information that is required to store a file in AdventureWorks DB.
